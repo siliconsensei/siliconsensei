@@ -1,8 +1,8 @@
-# Ricardo Cañas
+# Ricardo Cañas Osorio
 
 <br>
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Digital Craftsman (Developer/Creator/Musician)`**
 
 <br>
 
