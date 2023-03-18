@@ -4,11 +4,11 @@
 
 **`Digital Craftsman (Developer/Creator/Musician)`**
 
-<br>
-
 I'm an indie Full-Stack Developer and product creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All products are built the same way, from ideation and planning, all the way to finalizing it with artistic touches.
 
 ---
+
+<br>
 
 ## 🧰 Languages and Tools
 
