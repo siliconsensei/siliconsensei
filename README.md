@@ -1,6 +1,6 @@
 # <img align="left" alt="Colombia" width="40px" src="https://api.iconify.design/twemoji/flag-colombia.svg" /> Ricardo Cañas Osorio
 
-**`🕹️ Digital Craftsman (creator/developer/designer/musician)`**
+**`Digital Craftsman (creator/developer/designer/musician)`**
 
 I'm a Full-Stack Product Creator with a passion for building solutions to real-life problems. I approach every project from the ground up, using my skills in code and design to create products that make a difference. In my spare time, I love tinkering with machines as much as building them, exploring nature and learning about foreign languages, design, art, and zen philosophies. With my experience, I bring a unique perspective to every project I work on. Let's build something incredible together.
 
