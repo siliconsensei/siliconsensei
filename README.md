@@ -14,7 +14,7 @@ I'm a Full-Stack Product Creator with a passion for building solutions to real-l
 
 ## <img align="left" alt="my-work" width="40px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> About my Work
 
-I have an obsessive devotion to the use of performant JavaScript(), reliable {CSS}, and dynamic and appealing <HTML> to build beautifully-crafted web apps with a strong appreciation for User Experience, usability and the bleeding-edge technologies that power the best of the modern web. I think of performance and design as the most pressing issue in any product.
+I have an obsessive devotion to the use of performant JavaScript(), reliable {CSS}, and dynamic and appealing <HTML> to build beautifully-crafted web apps with a strong appreciation for User Experience, usability and the bleeding-edge technologies that power the best of the modern web.
 
 <img align="left" alt="Linux" width="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/linux-tux.svg" />
 <img align="left" alt="RaspberryPi" width="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
