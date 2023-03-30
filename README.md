@@ -35,5 +35,5 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 <br><br><br>
   
 > Change is the law of life. And those who look only to the past or the present are certain to miss the future.
-> <br>
+> <br><br>
 > John F. Kennedy
