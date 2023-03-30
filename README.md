@@ -30,7 +30,7 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 <img align="left" alt="Rust" width="35px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-rust.svg" />
 <img align="left" alt="Python" width="35px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-python.svg" />
 <img align="left" alt="TensorFlow" width="32px" style="margin-right:5px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
-<img align="left" alt="Blender" width="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/blender.svg"/>
+<img align="left" alt="Blender" width="38px" style="margin-right:5px;" src="https://api.iconify.design/logos/blender.svg"/>
 
 <br><br><br>
   
