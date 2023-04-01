@@ -50,6 +50,6 @@ My projects revolve around scientific research and personal computing and inprov
   
 <br>
 
-> As math provides a powerful language for describing the universe, computer science offers a superlative tool for understanding the intricate and dynamic processes of life. The connection between computer science and biology highlights the profound interdependence of all areas of knowledge and emphasizes the unity of nature, from the microscopic to the macroscopic.
+> As math provides a powerful language for describing the universe, computer science offers a superlative tool for understanding the intricate and dynamic processes of life. The connection between computer science and the natural sciences highlights the profound interdependence of all areas of knowledge and emphasizes the unity of the cosmos, from the microscopic to the macroscopic.
 > <br><br>
-> Myself
+> Myself with ❤️ for humanity and the cosmos.
