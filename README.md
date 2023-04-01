@@ -33,7 +33,7 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 
 <br><br><br>
 
-## <img align="left" alt="my-work" width="40px" src="https://api.iconify.design/openmoji/roasted-coffee-bean.svg" /> Sponsoring:
+## <img align="left" alt="my-work" width="40px" src="https://api.iconify.design/openmoji/roasted-coffee-bean.svg" /> Sponsoring
 
 My projects revolve around scientific research and personal computing and inproving its experience for all of us. You're welcome! You can buy me a coffee, that might help me focus and create the content you enjoy!
 
@@ -43,13 +43,13 @@ My projects revolve around scientific research and personal computing and inprov
   
 <br>
   
-## <img align="left" alt="my-work" width="40px" src="https://api.iconify.design/twemoji/handshake-light-skin-tone.svg" /> You can also:
+## <img align="left" alt="my-work" width="40px" src="https://api.iconify.design/twemoji/handshake-light-skin-tone.svg" /> You can also
 
 - Hire me: me@silicon.com
-- Follow me: [twitter.com/fregante](https://twitter.com/siliconsensei)
+- Follow me: [twitter.com/siliconsensei](https://twitter.com/siliconsensei)
   
 <br>
-  
-> Change is the law of life. And those who look only to the past or the present are certain to miss the future.
+
+> As math provides a powerful language for describing the universe, computer science offers a superlative tool for understanding the intricate and dynamic processes of life. The connection between computer science and biology highlights the profound interdependence of all areas of knowledge and emphasizes the unity of nature, from the microscopic to the macroscopic.
 > <br><br>
-> John F. Kennedy
+> Myself
