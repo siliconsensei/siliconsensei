@@ -10,7 +10,7 @@ I'm a Full-Stack Product Creator with a passion for building solutions to real-l
 <img align="left" alt="German" width="35px" style="margin-right:2px;" src="https://api.iconify.design/twemoji/flag-germany.svg" />
 <img align="left" alt="Japanese" width="35px" style="margin-right:2px;" src="https://api.iconify.design/twemoji/flag-japan.svg" />
 
-<br><hr><br>
+<br><br><hr><br>
 
 ## <img align="left" alt="my-work" width="40px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> About my work.
 
@@ -31,7 +31,7 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 <img align="left" alt="Python" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-python.svg" />
 <img align="left" alt="TensorFlow" width="33px" style="margin-right:2px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
 
-<br><hr><br>
+<br><br><hr><br>
 
 ## <img align="left" alt="my-work" width="40px" src="https://api.iconify.design/twemoji/coin.svg" /> Sponsoring.
 
@@ -45,7 +45,7 @@ My projects revolve around scientific research and personal computing and inprov
 <img align="left" alt="BuyCoffee" width="35px" style="margin-right:2px;" src="https://api.iconify.design/openmoji/roasted-coffee-bean.svg"/>
 <img align="left" alt="PayPal" width="30px" style="margin-right:2px;" src="https://api.iconify.design/logos/paypal.svg"/>
   
-<br><hr><br>
+<br><br><hr><br>
   
 ## <img align="left" alt="my-work" width="42px" src="https://api.iconify.design/twemoji/handshake-light-skin-tone.svg" /> You can also.
 
@@ -55,7 +55,7 @@ My projects revolve around scientific research and personal computing and inprov
 <img align="left" alt="Gmail" width="35px" style="margin-right:2px;" src="https://api.iconify.design/logos/google-gmail.svg"/>
 <img align="left" alt="Twitter" width="30px" style="margin-right:2px;" src="https://api.iconify.design/logos/twitter.svg"/>
 
-<br><hr><br>
+<br><br><hr><br>
 
 > As math provides a powerful language for describing the universe, computer science offers a superlative tool for understanding the intricate and dynamic processes of life. The connection between computer science and the natural sciences highlights the profound interdependence of all areas of knowledge and emphasizes the unity of the cosmos, from the microscopic to the macroscopic.
 > <br><br>
