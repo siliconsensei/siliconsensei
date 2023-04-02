@@ -16,20 +16,20 @@ I'm a Full-Stack Product Creator with a passion for building solutions to real-l
 
 I have an obsessive devotion to the use of performant JavaScript(), reliable {CSS}, and dynamic and appealing <HTML> to build beautifully-crafted web apps with a strong appreciation for User Experience, usability and the bleeding-edge technologies that power the best of the modern web.
 
-<img align="left" alt="Linux" width="40px" style="margin-right:2px;" src="https://api.iconify.design/logos/linux-tux.svg" />
-<img align="left" alt="RaspberryPi" width="35px" style="margin-right:2px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
+<img align="left" alt="Linux" width="35px" style="margin-right:2px;" src="https://api.iconify.design/logos/linux-tux.svg" />
+<img align="left" alt="RaspberryPi" width="32px" style="margin-right:2px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
 <img align="left" alt="HTML" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
 <img align="left" alt="CSS" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
 <img align="left" alt="JavaScript" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-js-official.svg" />
 <img align="left" alt="TypeScript" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-typescript-official.svg" />
 <img align="left" alt="Svelte" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-svelte.svg" />
-<img align="left" alt="Qwik" width="40px" style="margin-right:2px;" src="https://api.iconify.design/logos/qwik.svg" />
+<img align="left" alt="Qwik" width="38px" style="margin-right:2px;" src="https://api.iconify.design/logos/qwik.svg" />
 <img align="left" alt="Firebase" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-firebase.svg"/>
 <img align="left" alt="Turborepo" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-turbo.svg"/>
 <img align="left" alt="NodeJS" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-node.svg" />
 <img align="left" alt="Rust" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-rust.svg" />
 <img align="left" alt="Python" width="40px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-python.svg" />
-<img align="left" alt="TensorFlow" width="35px" style="margin-right:2px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
+<img align="left" alt="TensorFlow" width="38px" style="margin-right:2px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
 
 <br><br><br>
 
