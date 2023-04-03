@@ -16,7 +16,7 @@ I'm a Full-Stack Product Creator with a passion for building solutions to real-l
 
 I have an obsessive devotion to the use of performant JavaScript(), reliable {CSS}, and dynamic and appealing <HTML> to build beautifully-crafted web apps with a strong appreciation for User Experience, usability and the bleeding-edge technologies that power the best of the modern web.
 
-<img align="left" alt="Linux" width="32px" style="margin-right:2px;" src="https://api.iconify.design/logos/linux-tux.svg" />
+<img align="left" alt="Linux" width="31px" style="margin-right:2px;" src="https://api.iconify.design/logos/linux-tux.svg" />
 <img align="left" alt="RaspberryPi" width="28px" style="margin-right:2px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
 <img align="left" alt="HTML" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
 <img align="left" alt="CSS" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
@@ -28,6 +28,7 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 <img align="left" alt="Turborepo" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-turbo.svg"/>
 <img align="left" alt="NodeJS" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-node.svg" />
 <img align="left" alt="Rust" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-rust.svg" />
+<img align="left" alt="Lua" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-lua.svg" />
 <img align="left" alt="Python" width="35px" style="margin-right:2px;" src="https://api.iconify.design/vscode-icons/file-type-python.svg" />
 <img align="left" alt="TensorFlow" width="33px" style="margin-right:2px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
 
