@@ -49,15 +49,13 @@
 
 I'm a Full-Stack Product Creator with a passion for building solutions to real-life problems. I approach every project from the ground up, using my skills in code and design to create products that make a difference. In my spare time, I love tinkering with machines as much as building them, exploring nature and learning about foreign languages, design, art, and zen philosophies. With my experience, I bring a unique perspective to every project I work on. Let's build something incredible together.
 
-<div align="center">
-  <img alt="Spanish" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-spain.svg" />
-  <img alt="English" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-united-kingdom.svg" />
-  <img alt="French" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-france.svg" />
-  <img alt="German" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-germany.svg" />
-  <img alt="Japanese" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-japan.svg" />
-</div>
+<img alt="Spanish" align="left" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-spain.svg" />
+<img alt="English" align="left" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-united-kingdom.svg" />
+<img alt="French" align="left" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-france.svg" />
+<img alt="German" align="left" height="40px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-germany.svg" />
+<img alt="Japanese" align="left" height="40px" src="https://api.iconify.design/twemoji/flag-japan.svg" />
 
-<br/>
+<br/><br/><br/>
 
 <h2><img alt="my-work" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> About my Work</h2>
 
@@ -67,57 +65,49 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 
 Blazingly fast technologies.
 
-<div align="center">
-  <img alt="NodeJS" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/nodejs-icon.svg" />
-  <img alt="Turborepo" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/turborepo-icon.svg"/>
-  <img alt="HTML" height="35px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
-  <img alt="CSS" height="35px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
-  <img alt="JavaScript" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/javascript.svg" />
-  <img alt="TypeScript" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/typescript-icon.svg" />
-  <img alt="Svelte" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/svelte-icon.svg" />
-  <img alt="Astro" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/astro-icon.svg"/>
-  <img alt="Vue" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/vue.svg"/>
-  <img alt="Qwik" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/qwik.svg" />
-  <img alt="Solid" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/solidjs-icon.svg"/>
-  <img alt="Firebase" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/firebase.svg"/>
-</div>
+<img alt="Firebase" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/firebase.svg"/>
+<img alt="Solid" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/solidjs-icon.svg"/>
+<img alt="Qwik" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/qwik.svg" />
+<img alt="Vue" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/vue.svg"/>
+<img alt="Astro" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/astro-icon.svg"/>
+<img alt="Svelte" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/svelte-icon.svg" />
+<img alt="TypeScript" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/typescript-icon.svg" />
+<img alt="JavaScript" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/javascript.svg" />
+<img alt="CSS" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
+<img alt="HTML" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/vscode-icons/file-type-html.svg" />
+<img alt="Turborepo" align="right" height="35px" style="margin-left:5px;" src="https://api.iconify.design/logos/turborepo-icon.svg"/>
+<img alt="NodeJS" align="right" height="35px" src="https://api.iconify.design/logos/nodejs-icon.svg" />
 
-<br/>
+<br/><br/><br/>
 
 - ### IoT & Game Development:
 
 Nice engines.
 
-<div align="center">
-  <img alt="RaspberryPi" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
-  <img alt="Android" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/arduino.svg"/>
-  <img alt="WebAssembly" height="35px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-wasm.svg" />
-  <img alt="Rust" height="35px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-rust.svg" />
-  <img alt="Python" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/python.svg" />
-  <img alt="TensorFlow" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
-  <img alt="Pytorch" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/pytorch-icon.svg"/>
-  <img alt="Unity" height="35px" style="margin-right:5px;" src="https://api.iconify.design/fontisto/unity.svg?color=white"/>
-  <img alt="Godot" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/godot-icon.svg"/>
-  <img alt="Unreal" height="35px" style="margin-right:5px;" src="https://api.iconify.design/fontisto/unreal-engine.svg?color=white"/>
-</div>
+<img alt="Unreal" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/fontisto/unreal-engine.svg?color=white"/>
+<img alt="Godot" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/godot-icon.svg"/>
+<img alt="Unity" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/fontisto/unity.svg?color=white"/>
+<img alt="Pytorch" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/pytorch-icon.svg"/>
+<img alt="TensorFlow" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
+<img alt="Python" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/python.svg" />
+<img alt="Android" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/arduino.svg"/>
+<img alt="RaspberryPi" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
 
-<br/>
+<br/><br/><br/>
 
 - ### Other Tools in my Stack:
 
 Wonderful, creative and performant tools.
 
-<div align="center">
-  <img alt="ArchLinux" height="35px" src="https://api.iconify.design/logos/archlinux.svg" />
-  <img alt="Blender" height="35px" src="https://api.iconify.design/logos/blender.svg" />
-  <img alt="Figma" height="35px" src="https://api.iconify.design/logos/figma.svg" />
-  <img alt="Lua" height="35px" src="https://api.iconify.design/logos/lua.svg" />
-  <img alt="Notion" height="35px" src="https://api.iconify.design/logos/notion-icon.svg" />
-  <img alt="Vim" height="35px" src="https://api.iconify.design/logos/vim.svg" />
-  <img alt="VSCode" height="35px" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
-</div>
+<img alt="VSCode" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
+<img alt="Vim" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/vim.svg" />
+<img alt="Notion" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/notion-icon.svg" />
+<img alt="Lua" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/lua.svg" />
+<img alt="Figma" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/figma.svg" />
+<img alt="Blender" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/blender.svg" />
+<img alt="ArchLinux" align="right" height="35px" style="margin-right:5px;" src="https://api.iconify.design/logos/archlinux.svg" />
 
-<br/>
+<br/><br/><br/>
 
 ## <img align="left" alt="my-work" width="30px" src="https://api.iconify.design/twemoji/heart-with-ribbon.svg" /> Keeping in touch.
 
