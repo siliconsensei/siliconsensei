@@ -71,8 +71,7 @@ Blazingly fast technologies.
 <img alt="Astro" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/astro-icon.svg"/>
 <img alt="Vue" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/vue.svg"/>
 <img alt="Qwik" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/qwik.svg" />
-<img alt="Solid" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/solidjs-icon.svg"/>
-<img alt="Firebase" align="left" height="30px" src="https://api.iconify.design/logos/firebase.svg"/>
+<img alt="Firebase" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/firebase.svg"/>
 <img alt="GunDB" align="left" height="30px" src="https://api.iconify.design/logos/gunjs.svg"/>
 
 <br/><br/><br/>
@@ -89,7 +88,6 @@ Nice engines.
 <img alt="TensorFlow" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
 <img alt="Pytorch" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/pytorch-icon.svg"/>
 <img alt="Blender" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/blender.svg" />
-<img alt="ThreeJS" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/threejs.svg" />
 <img alt="Unity" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/unity.svg"/>
 <img alt="Godot" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/godot-icon.svg"/>
 <img alt="Unreal" align="left" height="30px" src="https://api.iconify.design/logos/unrealengine-icon.svg"/>
