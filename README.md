@@ -66,6 +66,7 @@ Blazingly fast technologies.
 <img alt="CSS" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-css.svg" />
 <img alt="JavaScript" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/javascript.svg" />
 <img alt="TypeScript" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/typescript-icon.svg" />
+<img alt="Tauri" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/tauri.svg"/>
 <img alt="Svelte" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/svelte-icon.svg" />
 <img alt="Astro" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/astro-icon.svg"/>
 <img alt="Vue" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/vue.svg"/>
@@ -87,6 +88,8 @@ Nice engines.
 <img alt="Python" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/python.svg" />
 <img alt="TensorFlow" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
 <img alt="Pytorch" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/pytorch-icon.svg"/>
+<img alt="Blender" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/blender.svg" />
+<img alt="ThreeJS" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/threejs.svg" />
 <img alt="Unity" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/unity.svg"/>
 <img alt="Godot" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/godot-icon.svg"/>
 <img alt="Unreal" align="left" height="30px" src="https://api.iconify.design/logos/unrealengine-icon.svg"/>
@@ -100,7 +103,6 @@ Wonderful, creative and performant tools.
 <img alt="OpenAI" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/openai-icon.svg" />
 <img alt="ArchLinux" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/archlinux.svg" />
 <img alt="Ubuntu" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/ubuntu.svg" />
-<img alt="Blender" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/blender.svg" />
 <img alt="Figma" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/figma.svg" />
 <img alt="Notion" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/notion-icon.svg" />
 <img alt="Git" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/git-icon.svg" />
