@@ -7,15 +7,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- Header -->
-<div align="center">
-  <h1 align="center">Welcome to my corner of the web! 🌐</h1>
-  <p align="center">Digital Craftsman (creator/developer/designer/musician)</p>
-  <img alt="Colombia" height="45px" src="https://api.iconify.design/twemoji/flag-colombia.svg" />
-  <img alt="Coffee" height="45px" src="https://api.iconify.design/openmoji/roasted-coffee-bean.svg" />
-  <img alt="BlackHole" height="45px" src="https://api.iconify.design/twemoji/milky-way.svg" />
-</div>
-
-<br/>
+# Welcome to my corner of the web! <img alt="Colombia" align="center" height="40px" style="margin-left:20px;" src="https://api.iconify.design/twemoji/flag-colombia.svg" /><img alt="Coffee" align="center" height="40px" style="margin-left:5px;" src="https://api.iconify.design/noto/flying-saucer.svg" />
+**`Digital Craftsman (creator/developer/designer/musician)`**
 
 <!-- Table of Contents -->
 <details>
@@ -63,7 +56,7 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 
 <br/>
 
-- ### Full-Stack App Development (F.A.S.T):
+<h3><img alt="my-work" height="30px" src="https://api.iconify.design/noto/fire.svg" /> Full-Stack App Development (F.A.S.T):</h3>
 
 Blazingly fast technologies.
 
@@ -79,36 +72,42 @@ Blazingly fast technologies.
 <img alt="Qwik" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/qwik.svg" />
 <img alt="Solid" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/solidjs-icon.svg"/>
 <img alt="Firebase" align="left" height="30px" src="https://api.iconify.design/logos/firebase.svg"/>
+<img alt="GunDB" align="left" height="30px" src="https://api.iconify.design/logos/gunjs.svg"/>
 
 <br/><br/><br/>
 
-- ### IoT & Game Development:
+<h3><img alt="my-work" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Automation & Game Development:</h3>
 
 Nice engines.
 
-<img alt="Android" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/arduino.svg"/>
-<img alt="Godot" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/godot-icon.svg"/>
-<img alt="Python" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/python.svg" />
-<img alt="Pytorch" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/pytorch-icon.svg"/>
 <img alt="RaspberryPi" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
+<img alt="Arduino" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/arduino.svg"/>
+<img alt="WASM" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/webassembly.svg" />
+<img alt="Rust" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/rust.svg" />
+<img alt="Python" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/python.svg" />
 <img alt="TensorFlow" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/tensorflow.svg"/>
-<img alt="Unity" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/fontisto/unity.svg?color=white"/>
-<img alt="Unreal" align="left" height="30px" src="https://api.iconify.design/fontisto/unreal-engine.svg?color=white"/>
+<img alt="Pytorch" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/pytorch-icon.svg"/>
+<img alt="Unity" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/unity.svg"/>
+<img alt="Godot" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/godot-icon.svg"/>
+<img alt="Unreal" align="left" height="30px" src="https://api.iconify.design/logos/unrealengine-icon.svg"/>
 
 <br/><br/><br/>
 
-- ### Other Wonderful Tools:
+<h3><img alt="my-work" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Other Wonderful Tools:</h3>
 
 Wonderful, creative and performant tools.
 
+<img alt="OpenAI" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/openai-icon.svg" />
 <img alt="ArchLinux" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/archlinux.svg" />
+<img alt="Ubuntu" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/ubuntu.svg" />
 <img alt="Blender" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/blender.svg" />
 <img alt="Figma" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/figma.svg" />
-<img alt="Lua" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/lua.svg" />
 <img alt="Notion" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/notion-icon.svg" />
-<img alt="OpenAI" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/simple-icons/openai.svg?color=white" />
+<img alt="Git" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/git-icon.svg" />
+<img alt="GitHub" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/github-octocat.svg" />
+<img alt="VSCode" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
 <img alt="Vim" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/vim.svg" />
-<img alt="VSCode" align="left" height="30px" src="https://api.iconify.design/vscode-icons/file-type-vscode.svg" />
+<img alt="Lua" align="left" height="30px" src="https://api.iconify.design/logos/lua.svg" />
 
 <br/><br/><br/>
 
