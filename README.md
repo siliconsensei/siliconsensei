@@ -1,13 +1,5 @@
-<a name="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- Header -->
-# Welcome to my corner of the web! <img alt="Colombia" align="center" height="40px" style="margin-left:20px;" src="https://api.iconify.design/twemoji/flag-colombia.svg" /><img alt="Coffee" align="center" height="40px" style="margin-left:5px;" src="https://api.iconify.design/noto/flying-saucer.svg" />
+# Welcome to my corner of the web! <img alt="Colombia" align="center" height="40px" style="margin-left:20px;" src="https://api.iconify.design/twemoji/flag-colombia.svg" />
 **`Digital Craftsman (creator/developer/designer/musician)`**
 
 <!-- Table of Contents -->
@@ -50,7 +42,7 @@ I'm a Full-Stack Product Creator with a passion for building solutions to real-l
 
 <br/><br/><br/>
 
-<h2><img alt="my-work" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> About my Work</h2>
+<h2><img alt="my-work" height="30px" src="https://api.iconify.design/material-symbols/deployed-code.svg" /> About my Work</h2>
 
 I have an obsessive devotion to the use of performant JavaScript(), reliable {CSS}, and dynamic and appealing <HTML> to build beautifully-crafted web apps with a strong appreciation for User Experience, usability and the bleeding-edge technologies that power the best of the modern web.
 
@@ -58,7 +50,7 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 
 <h3><img alt="my-work" height="30px" src="https://api.iconify.design/noto/fire.svg" /> Full-Stack App Development (F.A.S.T):</h3>
 
-Blazingly fast technologies.
+With this tech stack, you can quickly build powerful and modern web applications that are highly performant and scalable. Svelte's reactivity and ease of use, combined with Astro's fast and interactive static site generation, and TypeScript's type checking and reliability, make for a smooth and efficient development process and Firebase's seamless backend integration further streamline development, allowing you to quickly bring your ideas to life and deliver a polished and responsive user experience.
 
 <img alt="NodeJS" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/nodejs-icon.svg" />
 <img alt="Turborepo" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/turborepo-icon.svg"/>
@@ -132,17 +124,3 @@ My projects revolve around scientific research and personal computing and inprov
 > As math provides a powerful language for describing the universe, computer science offers a superlative tool for understanding the intricate and dynamic processes of life. The connection between computer science and the natural sciences highlights the profound interdependence of all areas of knowledge and emphasizes the unity of the cosmos, from the microscopic to the macroscopic.
 > <br><br>
 > Myself with ❤️ for humanity and the cosmos.
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
