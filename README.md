@@ -48,7 +48,7 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 
 <br/>
 
-<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/noto/fire.svg" /> Full-Stack App Development (F.A.S.T):</h3>
+<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/fluent-emoji/fire.svg" /> Full-Stack App Development (F.A.S.T):</h3>
 
 With my tech stack (F.A.S.T), I can quickly build powerful and modern web applications that are highly performant and scalable. Svelte's reactivity and ease of use, combined with Astro's fast and interactive static site generation, and TypeScript's type checking and reliability, make for a smooth and efficient development process and Firebase's seamless backend integration further streamline development, allowing you to quickly bring your ideas to life and deliver a polished and responsive user experience.
 
@@ -68,7 +68,7 @@ With my tech stack (F.A.S.T), I can quickly build powerful and modern web applic
 
 <br/><br/><br/>
 
-<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Automation & Game Development:</h3>
+<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/fluent-emoji/joystick.svg" /> Automation & Game Development:</h3>
 
 While each technologies has its unique strengths and use cases, they all share the common trait of being versatile tools for developers. Unity and Unreal Engine are excellent for creating immersive experiences across multiple platforms. Raspberry Pi is a popular choice for IoT development, offering a low-cost, low-power, and compact computer that's perfect for prototyping and experimenting with IoT devices. PyTorch and TensorFlow are both powerful machine learning libraries that can be used for developing AI applications in gaming and IoT.
 
@@ -86,7 +86,7 @@ While each technologies has its unique strengths and use cases, they all share t
 
 <br/><br/><br/>
 
-<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Other Wonderful Tools:</h3>
+<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/fluent-emoji/hammer-and-wrench.svg" /> Other Wonderful Tools:</h3>
 
 With these tools at your disposal, you can build and design with ease, efficiency, and precision. Arch Linux gives me the flexibility to build my own system, making it ideal for user like me who want full control over their environment. FFmpeg is an open-source multimedia framework that lets you easily encode, decode, and stream audio and video. Vim is a powerful text editor with a wide range of features and customization options, making it a favorite among developers who prefer a keyboard-centric workflow and finally, Figma with its cloud-based design tool that allows you to collaborate on projects with your team, making it an essential tool for designers working remotely.
 
