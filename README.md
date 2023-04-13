@@ -30,7 +30,7 @@
 
 <br/>
 
-<h2><img alt="my-work" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> About Me</h2>
+<h2><img alt="my-work" align="center" height="35px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> About Me</h2>
 
 I'm a Full-Stack Product Creator with a passion for building solutions to real-life problems. I approach every project from the ground up, using my skills in code and design to create products that make a difference. In my spare time, I love tinkering with machines as much as building them, exploring nature and learning about foreign languages, design, art, and zen philosophies. With my experience, I bring a unique perspective to every project I work on. Let's build something incredible together.
 
@@ -42,15 +42,15 @@ I'm a Full-Stack Product Creator with a passion for building solutions to real-l
 
 <br/><br/><br/>
 
-<h2><img alt="my-work" height="30px" src="https://api.iconify.design/material-symbols/deployed-code.svg" /> About my Work</h2>
+<h2><img alt="my-work" align="center" height="35px" src="https://api.iconify.design/material-symbols/code-blocks.svg" /> About my Work</h2>
 
 I have an obsessive devotion to the use of performant JavaScript(), reliable {CSS}, and dynamic and appealing <HTML> to build beautifully-crafted web apps with a strong appreciation for User Experience, usability and the bleeding-edge technologies that power the best of the modern web.
 
 <br/>
 
-<h3><img alt="my-work" height="30px" src="https://api.iconify.design/noto/fire.svg" /> Full-Stack App Development (F.A.S.T):</h3>
+<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/noto/fire.svg" /> Full-Stack App Development (F.A.S.T):</h3>
 
-With this tech stack, you can quickly build powerful and modern web applications that are highly performant and scalable. Svelte's reactivity and ease of use, combined with Astro's fast and interactive static site generation, and TypeScript's type checking and reliability, make for a smooth and efficient development process and Firebase's seamless backend integration further streamline development, allowing you to quickly bring your ideas to life and deliver a polished and responsive user experience.
+With my tech stack (F.A.S.T), I can quickly build powerful and modern web applications that are highly performant and scalable. Svelte's reactivity and ease of use, combined with Astro's fast and interactive static site generation, and TypeScript's type checking and reliability, make for a smooth and efficient development process and Firebase's seamless backend integration further streamline development, allowing you to quickly bring your ideas to life and deliver a polished and responsive user experience.
 
 <img alt="NodeJS" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/nodejs-icon.svg" />
 <img alt="Turborepo" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/turborepo-icon.svg"/>
@@ -68,9 +68,9 @@ With this tech stack, you can quickly build powerful and modern web applications
 
 <br/><br/><br/>
 
-<h3><img alt="my-work" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Automation & Game Development:</h3>
+<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Automation & Game Development:</h3>
 
-Nice engines.
+While each technologies has its unique strengths and use cases, they all share the common trait of being versatile tools for developers. Unity and Unreal Engine are excellent for creating immersive experiences across multiple platforms. Raspberry Pi is a popular choice for IoT development, offering a low-cost, low-power, and compact computer that's perfect for prototyping and experimenting with IoT devices. PyTorch and TensorFlow are both powerful machine learning libraries that can be used for developing AI applications in gaming and IoT.
 
 <img alt="RaspberryPi" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/raspberry-pi.svg"/>
 <img alt="Arduino" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/arduino.svg"/>
@@ -86,13 +86,14 @@ Nice engines.
 
 <br/><br/><br/>
 
-<h3><img alt="my-work" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Other Wonderful Tools:</h3>
+<h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/emojione-v1/old-personal-computer.svg" /> Other Wonderful Tools:</h3>
 
-Wonderful, creative and performant tools.
+With these tools at your disposal, you can build and design with ease, efficiency, and precision. Arch Linux gives me the flexibility to build my own system, making it ideal for user like me who want full control over their environment. FFmpeg is an open-source multimedia framework that lets you easily encode, decode, and stream audio and video. Vim is a powerful text editor with a wide range of features and customization options, making it a favorite among developers who prefer a keyboard-centric workflow and finally, Figma with its cloud-based design tool that allows you to collaborate on projects with your team, making it an essential tool for designers working remotely.
 
 <img alt="OpenAI" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/openai-icon.svg" />
 <img alt="ArchLinux" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/archlinux.svg" />
 <img alt="Ubuntu" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/ubuntu.svg" />
+<img alt="FFmpeg" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/ffmpeg-icon.svg" />
 <img alt="Figma" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/figma.svg" />
 <img alt="Notion" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/notion-icon.svg" />
 <img alt="Git" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/git-icon.svg" />
@@ -103,7 +104,7 @@ Wonderful, creative and performant tools.
 
 <br/><br/><br/>
 
-## <img align="left" alt="my-work" width="30px" src="https://api.iconify.design/twemoji/heart-with-ribbon.svg" /> Keeping in touch.
+## <img alt="my-work" align="center" height="35px" src="https://api.iconify.design/twemoji/heart-with-ribbon.svg" /> Keeping in touch.
 
 My projects revolve around scientific research and personal computing and inproving its experience for all of us. You're welcome! You can buy me a coffee, that might help me focus and create the content you enjoy!
 
