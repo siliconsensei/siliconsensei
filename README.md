@@ -1,32 +1,10 @@
 <!-- Header -->
 # Welcome to my corner of the web! <img alt="Colombia" align="center" height="40px" style="margin-left:20px;" src="https://api.iconify.design/twemoji/flag-colombia.svg" />
-**`Digital Craftsman (creator/developer/designer/musician)`**
 
-<!-- Table of Contents -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+<a href="https://github.com/siliconsensei">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=siliconsensei&show_icons=true&theme=chartreuse-dark" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconsensei&layout=compact&theme=chartreuse-dark" />
+</a>
 
 <br/>
 
@@ -51,6 +29,8 @@ I have an obsessive devotion to the use of performant JavaScript(), reliable {CS
 <h3><img alt="my-work" align="center" height="30px" src="https://api.iconify.design/fluent-emoji/fire.svg" /> Full-Stack App Development (F.A.S.T):</h3>
 
 With my tech stack (F.A.S.T), I can quickly build powerful and modern web applications that are highly performant and scalable. Svelte's reactivity and ease of use, combined with Astro's fast and interactive static site generation, and TypeScript's type checking and reliability, make for a smooth and efficient development process and Firebase's seamless backend integration further streamline development, allowing you to quickly bring your ideas to life and deliver a polished and responsive user experience.
+
+![NodeJS](https://api.iconify.design/logos/nodejs-icon.svg)
 
 <img alt="NodeJS" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/nodejs-icon.svg" />
 <img alt="Turborepo" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/logos/turborepo-icon.svg"/>
@@ -121,6 +101,13 @@ My projects revolve around scientific research and personal computing and inprov
 - Follow me: [twitter.com/siliconsensei](https://twitter.com/siliconsensei)
 
 <br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zendolabs&repo=/demo" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rareinsights&repo=the-rare-insights" />
+</a>
 
 > As math provides a powerful language for describing the universe, computer science offers a superlative tool for understanding the intricate and dynamic processes of life. The connection between computer science and the natural sciences highlights the profound interdependence of all areas of knowledge and emphasizes the unity of the cosmos, from the microscopic to the macroscopic.
 > <br><br>
