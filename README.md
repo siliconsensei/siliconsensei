@@ -5,18 +5,6 @@
 
 I'm a Full-Stack Product Creator with a passion for building solutions to real-life problems. I approach every project from the ground up, using my skills in code and design to create products that make a difference. In my spare time, I love tinkering with machines as much as building them, exploring nature and learning about foreign languages, design, art, and zen philosophies. With my experience, I bring a unique perspective to every project I work on. Let's build something incredible together.
 
-<br/>
-
-|             |          Grouping           ||
-| --- | --- | --- |
-| ![RaspberryPi](https://api.iconify.design/logos/raspberry-pi.svg?height=30) | **`Hardware`** | Just Because |
-| ![ArchLinux](https://api.iconify.design/logos/archlinux.svg?height=30) | **`Operating System`** | Just Because |
-| ![NodeJS](https://api.iconify.design/logos/nodejs-icon.svg?height=30) | **`Backend Environment`** | Just Because |
-| ![Turborepo](https://api.iconify.design/logos/turborepo-icon.svg?height=30) | **`Monorepo Tool`** | Just Because |
-| ![HTML](https://api.iconify.design/vscode-icons/file-type-html.svg?height=30) | **`Frontend Standard`** | Just Because |
-
-</br>
-
 <img alt="Spanish" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-spain.svg" />
 <img alt="English" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-united-kingdom.svg" />
 <img alt="French" align="left" height="30px" style="margin-right:5px;" src="https://api.iconify.design/twemoji/flag-france.svg" />
