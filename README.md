@@ -13,9 +13,9 @@ I'm a Full-Stack Product Creator with a passion for building solutions to real-l
 
 <br/><br/>
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=siliconsensei&show_icons=true&theme=midnight-purple" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconsensei&layout=compact&theme=midnight-purple" />
+<div>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=siliconsensei&show_icons=true&theme=midnight-purple" />
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siliconsensei&layout=compact&theme=midnight-purple" />
 </div>
 
 <br/><br/>
