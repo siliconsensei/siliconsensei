@@ -40,22 +40,10 @@ My projects revolve around scientific research and personal computing and inprov
 
 I have an obsessive devotion to the use of performant JavaScript(), reliable {CSS}, and dynamic and appealing <HTML> to build beautifully-crafted web apps with a strong appreciation for User Experience, usability and the bleeding-edge technologies that power the best of the modern web.
 
-| Frontend | API | Backend |
-| --- | --- | --- |
-| ![RaspberryPi](https://api.iconify.design/logos/raspberry-pi.svg?height=30) | **`Hardware`** | ![RaspberryPi](https://api.iconify.design/logos/raspberry-pi.svg?height=30) ![RaspberryPi](https://api.iconify.design/logos/raspberry-pi.svg?height=30) |
-| ![NodeJS](https://api.iconify.design/logos/nodejs-icon.svg?height=30) | **`Backend Environment`** | Just Because |
-| ![Turborepo](https://api.iconify.design/logos/turborepo-icon.svg?height=30) | **`Monorepo Tool`** | Just Because |
-| ![HTML](https://api.iconify.design/vscode-icons/file-type-html.svg?height=30) | **`Frontend Standard`** | Just Because |
-| ![CSS](https://api.iconify.design/vscode-icons/file-type-css.svg?height=30) | **`Frontend Standard`** | Just Because |
-| ![JS](https://api.iconify.design/logos/javascript.svg?height=30) | **`Frontend Standard`** | Just Because |
-| ![TS](https://api.iconify.design/logos/typescript-icon.svg?height=30) | **`Frontend Language`** | Just Because |
-| ![Svelte](https://api.iconify.design/logos/svelte-icon.svg?height=30) | **`Frontend Framework`** | Just Because |
-| ![Qwik](https://api.iconify.design/logos/qwik.svg?height=30) | **`Backend`** | Just Because |
-| ![Firebase](https://api.iconify.design/logos/firebase.svg?height=30) | **`Backend`** | Just Because |
-| ![TensorFlow](https://api.iconify.design/logos/tensorflow.svg?height=30) | **`Machine Learning`** | Just Because |
-| ![Blender](https://api.iconify.design/logos/blender.svg?height=30) | **`Backend`** | Just Because |
-| ![Vim](https://api.iconify.design/logos/vim.svg?height=30) | **`Backend`** | Just Because |
-| ![Git](https://api.iconify.design/logos/git-icon.svg?height=30) | **`Backend`** | Just Because |
+| Frontend | API | Backend | Other Tools |
+| --- | --- | --- | --- |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| ![HTML](https://api.iconify.design/vscode-icons/file-type-html.svg?height=30) ![CSS](https://api.iconify.design/vscode-icons/file-type-css.svg?height=30) ![JS](https://api.iconify.design/logos/javascript.svg?height=30) ![Svelte](https://api.iconify.design/logos/svelte-icon.svg?height=30) ![Qwik](https://api.iconify.design/logos/qwik-icon.svg?height=30) ![Blender](https://api.iconify.design/logos/blender.svg?height=30) | ![OpenAI](https://api.iconify.design/simple-icons/openai.svg?height=30&color=white) ![Twilio](https://api.iconify.design/logos/twilio-icon.svg?height=30) ![SendGrid](https://api.iconify.design/logos/sendgrid-icon.svg?height=30) | ![NodeJS](https://api.iconify.design/logos/nodejs-icon.svg?height=30) ![Turborepo](https://api.iconify.design/logos/turborepo-icon.svg?height=30) ![Firebase](https://api.iconify.design/logos/firebase.svg?height=30) ![TensorFlow](https://api.iconify.design/logos/tensorflow.svg?height=30) | ![Fedora](https://api.iconify.design/logos/fedora.svg?height=30) ![Vim](https://api.iconify.design/logos/vim.svg?height=30) ![Git](https://api.iconify.design/logos/git-icon.svg?height=30) |
 
 <br><br>
 
